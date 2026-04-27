@@ -1,5 +1,7 @@
 # A+B Problem (Big Numbers)
 
+![image](images/image.png)
+
 ## Description
 
 Given two non-negative integers A and B that may be very large (up to 100 digits each), compute A + B.
